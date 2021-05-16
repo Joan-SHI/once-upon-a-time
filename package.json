@@ -1,0 +1,22 @@
+{
+  "name": "once-upon-a-time",
+  "version": "1.0.0",
+  "description": "1. https://www.npmjs.com/package/live-server This is a little development server with live reload capability. Use it for hacking your HTML/JavaScript/CSS files, but not for deploying the final site. npm install -g live-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joan-SHI/once-upon-a-time.git"
+  },
+  "author": "Joan Shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joan-SHI/once-upon-a-time/issues"
+  },
+  "homepage": "https://github.com/Joan-SHI/once-upon-a-time#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

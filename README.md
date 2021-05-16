@@ -11,3 +11,5 @@ Run "npm install -g live-server" in your command line to install "live-server@1.
    Follow this link to install gulp compiler. 
 
 5. Create a .gitignore file and add node_modules to it before git push your changes to the remote. 
+
+6. Next Steps: configure gulpfile.js to compile sass to css; Write some JavaScript code. 
